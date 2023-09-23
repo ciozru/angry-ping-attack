@@ -12,7 +12,6 @@ I Hope You Enjoy Of That !
 # Modified by : cioz
 appearance
 
-![cioz](./assets/image_ciozhere.png "GitHub")
 
 # Tested On
 Kali Linux,Parrot Sec,Termux,Nix,Arch Linux
